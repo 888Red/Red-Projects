@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://www.azamaraclubcruises.co.uk/sites/default/files/heros/coron-palawan-philippines-1800x1000.jpg");
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: auto;
+    background-color: #fff2e6;
+    float: left;
+    margin: 10px;
+    box-shadow: 5px 5px #004d00;
+}
+
+h2 {
+    font: "Merienda", serif;
+	  font-weight: 800;
+	  margin-bottom: 15px;
+    color: #004d00;
+}
+
+img {
+  	width: 300px;
+    margin: auto;
+  	margin-bottom: 10px;
+}
+
+.information {
+	  padding: 10px;
+	  border: 2px dashed black;
+}
+
+p:first-child {
+       font: "Merienda";
+       font-style: italic;
+       margin-bottom: 10px;
+       font-size: 20px;
+}
+p:last-child  {
+        font: "Oswald";
+        font-size: 18px;
+}
+
+
+ul {
+    list-style-type: none;
+	  margin: 10px auto;
+    font-size: 16px;
+}
+
+li span  {
+    font-weight: bold;
+}
