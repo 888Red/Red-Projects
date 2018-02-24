@@ -1,4 +1,4 @@
 # Udacity-FEND-Animal-Card
-Project 
+Project - Animal Trading Cards
 
 Philippine Eagle
